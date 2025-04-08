@@ -17,7 +17,6 @@ Before you can run this script, you need to have Python installed along with the
 To run this script, you first need to install the required Python libraries. You can install these libraries using pip:
 
 ```
-```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
