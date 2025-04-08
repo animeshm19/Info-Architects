@@ -49,4 +49,3 @@ If you encounter any issues while running the script, ensure all dependencies ar
 ## Contributing
 
 Feel free to fork this project and submit pull requests with improvements or report any issues you might encounter.
-```
